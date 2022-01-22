@@ -1,0 +1,7 @@
+{
+    "name": "AG APP",
+    "short_name": "AG APP",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/"
+  }
